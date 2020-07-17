@@ -7,8 +7,6 @@ __📝 Here my latest articles__
 - [Advanced TypeScript Types cheat sheet (with examples)](https://www.ibrahima-ndaw.com/blog/advanced-typescript-cheat-sheet/)
 - [A Practical Guide to TypeScript - How to Build a Pokedex app using HTML, CSS, and TypeScript](https://www.ibrahima-ndaw.com/blog/a-practical-guide-to-typescript/)
 - [Apollo GraphQL: How to build a Full-stack app with React and Node Js](https://www.ibrahima-ndaw.com/blog/apollo-graphql-fullstack-app-with-react-and-nodejs/)
-- [How To Build Finite State Machines using XState and React?](https://www.ibrahima-ndaw.com/blog/xstate-react-finite-state-machine/)
-- [How to Style Your React Apps with Less Code Using Tailwind CSS, Styled Components, and Twin Macro](https://www.ibrahima-ndaw.com/blog/how-to-use-tailwind-styled-components/)
 
 __📫 Let's get in touch__
 
