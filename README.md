@@ -1,5 +1,7 @@
 ![welcome](https://drive.google.com/uc?id=1HFTG8bAT7_L_ktBN3xth1EniioDkEzmU)
 
+I am a JavaScript Enhusiast and Full-stack developer who also dabble on UX/UI design. I am blogging at [ibrahima-ndaw.com](https://www.ibrahima-ndaw.com/).
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
