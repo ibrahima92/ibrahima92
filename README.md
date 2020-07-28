@@ -10,8 +10,4 @@ __📝 Here my latest articles__
 
 __📫 Let's get in touch__
 
-- [Twitter](https://twitter.com/ibrahima92_)
-- [DEV](https://dev.to/ibrahima92)
-- [Linkedin](https://www.linkedin.com/in/ibrahima-ndaw/)
-- [CodePen](https://codepen.io/ibrahima92)
-- [CodeSandbox](https://codesandbox.io/u/ibrahima92)
+- [Twitter](https://twitter.com/ibrahima92_) - [DEV](https://dev.to/ibrahima92) - [Linkedin](https://www.linkedin.com/in/ibrahima-ndaw/) - [CodePen](https://codepen.io/ibrahima92) - [CodeSandbox](https://codesandbox.io/u/ibrahima92)
