@@ -6,7 +6,7 @@ __📝 Here my latest articles__
 
 - [The React TypeScript Cheatsheet – How To Set Up Types on Hooks](https://www.ibrahima-ndaw.com/blog/set-typescript-types-to-react-hooks/)
 - [How To Build a Todo App with React, TypeScript, NodeJS, and MongoDB](https://www.ibrahima-ndaw.com/blog/how-to-buil-a-todo-app-with-react-and-node-js/)
-- [Advanced TypeScript Types cheat sheet (with examples)](https://www.ibrahima-ndaw.com/blog/advanced-typescript-cheat-sheet/)
+- [How To Use Redux in your React TypeScript App](https://www.ibrahima-ndaw.com/blog/using-redux-with-react-typescript/)
 
 __📫 Let's get in touch__
 
