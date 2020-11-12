@@ -4,9 +4,9 @@ I am a JavaScript Enthusiast and Full-stack developer who also dabble on UX/UI d
 
 __📝 Here my latest articles__
 
-- [A Complete Beginner's Guide to Routing in Next.js](https://www.ibrahima-ndaw.com/blog/routing-in-nextjs/)
+- [Data fetching in Next.js — How To Use SWR](https://www.ibrahima-ndaw.com/blog/data-fetching-in-nextjs-using-useswr/)
+- [Routing in Next.js — A Complete Beginner's Guide](https://www.ibrahima-ndaw.com/blog/routing-in-nextjs/)
 - [Introduction Guide to Next.js](https://www.ibrahima-ndaw.com/)
-- [How To Use Redux in your React TypeScript App](https://www.ibrahima-ndaw.com/blog/using-redux-with-react-typescript/)
 
 __📫 Let's get in touch__
 
