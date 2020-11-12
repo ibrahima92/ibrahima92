@@ -1,4 +1,4 @@
-__👋🏾 Hello there!
+__:wave: Hello there!
 
 I am a JavaScript Enthusiast and Full-stack developer who also dabble on UX/UI design. I am blogging at [ibrahima-ndaw.com](https://www.ibrahima-ndaw.com/).
 
